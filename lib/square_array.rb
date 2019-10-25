@@ -1,3 +1,14 @@
+numbers = [1, 2, 3]
+new_numbers = [9, 10, 16, 25]
 def square_array(array)
-  # your code here
+  i = 0 
+  squarred = []
+  while i <= array.length do 
+  i ** 2
+  i = squarred
+  p squarred
+  i += 1
 end
+end
+p square_array(numbers)
+p square_array(new_numbers)
