@@ -17,4 +17,5 @@ def square_array(array)
   while array[counter] do
   
 end
+return squarred
 end
