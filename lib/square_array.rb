@@ -7,6 +7,8 @@ def square_array(array)
   i += 1
   
 end
+return [i]
 end
+
 p square_array(numbers)
 p square_array(new_numbers)
