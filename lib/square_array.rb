@@ -10,6 +10,3 @@ def square_array(array)
 end
 squarred
 end
-
-p square_array(numbers)
-p square_array(new_numbers)
