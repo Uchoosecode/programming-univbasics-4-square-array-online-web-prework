@@ -9,9 +9,6 @@
 # squarred
 # end
 
-numbers = [1, 2, 3]
-square_array(numbers)
-
 def square_array(array)
   squarred = []
   counter = 0 
@@ -21,3 +18,5 @@ def square_array(array)
 end
 return squarred
 end
+numbers = [1, 2, 3]
+square_array(numbers)
