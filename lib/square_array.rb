@@ -1,5 +1,3 @@
-
-
 def square_array(array)
   squarred = []
   counter = 0  
