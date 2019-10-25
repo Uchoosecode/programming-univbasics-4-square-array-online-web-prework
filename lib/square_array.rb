@@ -3,7 +3,8 @@ new_numbers = [9, 10, 16, 25]
 def square_array(array)
   i = 1 
   squarred = []
-  while i <= array.length do i ** 2 
+  while i <= array.length do 
+    i ** 2 
   i += 1
   
 end
