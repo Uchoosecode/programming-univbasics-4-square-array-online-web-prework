@@ -4,8 +4,7 @@ def square_array(array)
   i = 0 
   squarred = []
   while i <= array.length do 
-  i ** 2
-  i = squarred[]
+  i ** 2 >> squarred[]
   p squarred[]
   i += 1
 end
