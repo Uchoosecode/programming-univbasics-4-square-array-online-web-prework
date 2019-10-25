@@ -7,7 +7,7 @@ def square_array(array)
   
   i += 1
 end
-p i ** 2
+p array ** 2
 end
 p square_array(numbers)
 p square_array(new_numbers)
