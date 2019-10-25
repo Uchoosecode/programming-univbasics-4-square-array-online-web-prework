@@ -10,3 +10,9 @@
 # end
 # squarred
 # end
+
+def square_array(array)
+  squarred = []
+  counter = log10
+  while 
+end
