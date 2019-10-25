@@ -8,6 +8,7 @@ def square_array(array)
   i += 1
   
 end
+return squarred
 end
 
 p square_array(numbers)
