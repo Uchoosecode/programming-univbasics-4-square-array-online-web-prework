@@ -19,3 +19,5 @@ def square_array(array)
 end
 return squarred
 end
+numbers = [1, 2, 3]
+square_array(numbers)
